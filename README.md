@@ -1,156 +1,220 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003311,100:00FF41&height=200&section=header&text=KISHOR%20GOGOI&fontSize=52&fontColor=00FF41&animation=fadeIn&fontAlignY=40&desc=QA%20Analyst%20%7C%20Test%20Automation%20Engineer%20%7C%20B.Tech%20CSE%20%40%20LPU&descAlignY=62&descSize=15&descColor=00cc34" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=140&section=header&text=KISHOR%20GOGOI&fontSize=48&fontColor=00FF41&animation=fadeIn&fontAlignY=42&desc=QA%20Analyst%20%7C%20Test%20Automation%20Engineer%20%7C%20DevOps&descAlignY=65&descSize=15&descColor=00FF41&stroke=00FF41&strokeWidth=0" />
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Hello%2C+World!+I'm+Kishor+Gogoi+%F0%9F%91%8B;QA+Analyst+%7C+SDET+%7C+Test+Automation+Engineer;Selenium+%7C+Appium+%7C+REST+Assured+%7C+Java;105%2B+Test+Cases+Automated+%E2%9C%85;Building+reliable+software%2C+one+test+at+a+time;Open+to+QA+%2F+SDET+roles+%E2%80%94+Pune+%7C+Bangalore+%7C+Hyderabad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Kishor+Gogoi+%F0%9F%91%8B;QA+Analyst+%7C+Test+Automation+Engineer;Selenium+%7C+Appium+%7C+REST+Assured+%7C+Jenkins;Building+reliable+software+one+test+at+a+time;Oracle+Certified+DevOps+Professional+%F0%9F%8F%86;Open+to+collaborate+%F0%9F%9A%80)](https://git.io/typing-svg)
  
 </div>
 ---
  
-## `$ whoami`
+## 🧠 About Me
  
 ```bash
+$ whoami
+  Kishor Gogoi — QA Analyst | Test Automation Engineer | DevOps Practitioner
+ 
+$ cat about.json
 {
-  "name"       : "Kishor Gogoi",
-  "role"       : "QA Analyst | Test Automation Engineer",
-  "degree"     : "B.Tech CSE — Lovely Professional University (May 2026)",
-  "email"      : "kishorgogoi403@gmail.com",
-  "portfolio"  : "kishorgogoip.netlify.app",
-  "github"     : "github.com/KISHOR403",
-  "linkedin"   : "linkedin.com/in/kishorgogoi",
-  "targets"    : ["Pune", "Bangalore", "Hyderabad"],
-  "learning"   : ["Playwright", "Docker"],
-  "status"     : "open_to_work ✅"
+  "role"        : "QA Analyst | Test Automation Engineer",
+  "education"   : "B.Tech CSE @ Lovely Professional University",
+  "expected"    : "May 2026",
+  "email"       : "kishorgogoi403@gmail.com",
+  "portfolio"   : "kishorgogoip.netlify.app",
+  "twitter"     : "@kishor_gogoi8",
+  "linkedin"    : "in/kishorgogoi",
+  "focus"       : ["QA Automation", "DevOps", "CI/CD", "API Testing", "Mobile Testing"],
+  "status"      : "open_to_collaborate 🟢"
 }
+ 
+$ echo $MISSION
+  "Building reliable software one test at a time."
 ```
  
 ---
  
-## `$ cat stats.txt`
+## 🖥️ Tech Stack
+ 
+### 💻 Languages & Fundamentals
  
 <div align="center">
-| 🧪 Test Cases | 📁 QA Projects | 💻 Repositories | 🏆 Certifications |
-|:-:|:-:|:-:|:-:|
-| **105+** | **3** | **26** | **3** |
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41)
  
 </div>
 ---
  
-## `$ ls -la skills/`
- 
-### ⚡ Languages
+### 🤖 Automation Frameworks & Testing Tools
  
 <div align="center">
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=00FF41)
+![Appium](https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=00FF41)
+![REST Assured](https://img.shields.io/badge/REST--Assured-000000?style=for-the-badge&logo=java&logoColor=00FF41)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00FF41)
+![TestNG](https://img.shields.io/badge/TestNG-000000?style=for-the-badge&logo=testng&logoColor=00FF41)
+![JUnit](https://img.shields.io/badge/JUnit5-000000?style=for-the-badge&logo=junit5&logoColor=00FF41)
+![Cucumber](https://img.shields.io/badge/Cucumber-000000?style=for-the-badge&logo=cucumber&logoColor=00FF41)
+![Swagger](https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=00FF41)
  
 </div>
 ---
  
-### 🤖 Test Automation
+### 🛠️ DevOps, CI/CD & Developer Tools
  
 <div align="center">
-![Selenium](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-1C1E24?style=for-the-badge&logo=appium&logoColor=00bfff)
-![REST Assured](https://img.shields.io/badge/REST--Assured-FF6C37?style=for-the-badge&logo=java&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-E6522C?style=for-the-badge&logo=testing-library&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![ExtentReports](https://img.shields.io/badge/ExtentReports-00AB6C?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![POM](https://img.shields.io/badge/Page_Object_Model-1C1E24?style=for-the-badge&logo=databricks&logoColor=00FF41)
+![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=00FF41)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
+![Maven](https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=00FF41)
  
 </div>
 ---
  
-### 🔄 CI/CD & DevOps
+### 📋 Project Management & Test Management
  
 <div align="center">
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker_(learning)-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright_(learning)-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=00FF41)
+![TestRail](https://img.shields.io/badge/TestRail-000000?style=for-the-badge&logo=testrail&logoColor=00FF41)
+![Confluence](https://img.shields.io/badge/Confluence-000000?style=for-the-badge&logo=confluence&logoColor=00FF41)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=00FF41)
  
 </div>
 ---
  
-### 🛠️ Tools & Methodology
+### ☁️ Cloud & Platforms
  
 <div align="center">
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile_Scrum-0275D8?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)
-![Mobile Testing](https://img.shields.io/badge/Mobile_Testing-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud_DevOps-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-000000?style=for-the-badge&logo=oracle&logoColor=00FF41)
+![Android](https://img.shields.io/badge/Android_ADB-000000?style=for-the-badge&logo=android&logoColor=00FF41)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00FF41)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=00FF41)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
  
 </div>
 ---
  
-## `$ ls -la projects/`
+### ⚙️ Methodologies
+ 
+<div align="center">
+![Agile](https://img.shields.io/badge/Agile_Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=00FF41)
+![API Testing](https://img.shields.io/badge/API_Testing-000000?style=for-the-badge&logo=swagger&logoColor=00FF41)
+![Mobile Testing](https://img.shields.io/badge/Mobile_Testing-000000?style=for-the-badge&logo=android&logoColor=00FF41)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=00FF41)
+![POM](https://img.shields.io/badge/Page_Object_Model-000000?style=for-the-badge&logo=selenium&logoColor=00FF41)
+![BDD](https://img.shields.io/badge/BDD-000000?style=for-the-badge&logo=cucumber&logoColor=00FF41)
+ 
+</div>
+---
+ 
+## 📂 Projects
  
 ```
-KISHOR403@github:~/projects $ ls -la --qa-only
-─────────────────────────────────────────────────────────────────────
+KISHOR403@github:~/projects $ ls -la --all
+──────────────────────────────────────────────────────────────────────────────
  
-drwxr-xr-x  [01]  Mobile-App-Test-Automation
-             └──▶  End-to-end Android automation for Weather App
-                   Stack  : Appium | Java | TestNG | UiAutomator2 | ADB | ExtentReports
-                   Tests  : 25+ scenarios | Emulator + Physical Device
-                   Arch   : Full Page Object Model
-                   Period : March 2025 – April 2025
+drwxr-xr-x  [01]  Mobile-App-Testing-WeatherApp
+             ├──▶  End-to-end test automation for Android Weather App
+             ├──   Stack  : Appium | Java | TestNG | POM | ADB
+             ├──   Tests  : 25+ scenarios | Emulator + Physical Device
+             └──   Period : March 2025 – April 2025
  
 drwxr-xr-x  [02]  Web-Automation-Framework
-             └──▶  Scalable Selenium framework with CI/CD integration
-                   Stack  : Selenium WebDriver | Java | TestNG | POM
-                   Tests  : 50+ automated cases | CRUD workflows
-                   CI/CD  : GitHub Actions pipeline
-                   Period : February 2025 – March 2025
+             ├──▶  Scalable Selenium framework with 50+ automated test cases
+             ├──   Stack  : Selenium WebDriver | Java | TestNG | POM
+             ├──   Tests  : CRUD workflows | CI/CD via GitHub Actions
+             └──   Period : February 2025 – March 2025
  
-drwxr-xr-x  [03]  API-Automation-Suite
-             └──▶  Comprehensive REST API test coverage
-                   Stack  : REST Assured | Postman | TestNG | GitHub Actions
-                   Tests  : 30+ cases | Auth | Cart | Orders
-                   Impact : 40% reduction in manual testing effort
-                   Period : February 2025 – March 2025
+drwxr-xr-x  [03]  API-Automation-Testing
+             ├──▶  Comprehensive REST API test suite — 30+ test cases
+             ├──   Stack  : Postman | REST Assured | TestNG | GitHub Actions
+             ├──   Tests  : Auth | Cart | Orders | 40% less manual effort
+             └──   Period : February 2025 – March 2025
  
-─────────────────────────────────────────────────────────────────────
-$ echo "Total automated test cases: 105+ ✅"
-  Total automated test cases: 105+ ✅
+drwxr-xr-x  [04]  GYM-Website
+             ├──▶  Fully responsive gym landing page with modern UI
+             ├──   Stack  : HTML | CSS
+             └──   Link   : github.com/KISHOR403/GYM-Website
+ 
+drwxr-xr-x  [05]  Stopwatch-Web-Application
+             ├──▶  Functional stopwatch built with vanilla JavaScript
+             ├──   Stack  : HTML | CSS | JavaScript
+             └──   Link   : github.com/KISHOR403/Stopwatch-web-Application
+ 
+drwxr-xr-x  [06]  Tic-Tac-Toe-Web-Application
+             ├──▶  Classic Tic Tac Toe playable in the browser
+             ├──   Stack  : HTML | CSS | JavaScript
+             └──   Link   : github.com/KISHOR403/Tic-Tac-Toe-Web-application
+ 
+drwxr-xr-x  [07]  Weather-App
+             ├──▶  Real-time weather app using public Weather API
+             ├──   Stack  : JavaScript | REST API
+             └──   Link   : github.com/KISHOR403/Weather-App
+ 
+drwxr-xr-x  [08]  Personal-Portfolio-Website
+             ├──▶  My personal portfolio showcasing all my work
+             ├──   Stack  : HTML | CSS
+             └──   Link   : kishorgogoip.netlify.app
+ 
+──────────────────────────────────────────────────────────────────────────────
+$ echo "Total: 26 repositories loaded ✅"
+  Total: 26 repositories loaded ✅
 ```
  
 ---
  
-## `$ cat certifications.txt`
+## 🏆 Certifications
  
-| # | Certification | Issuer | Year |
-|:-:|---|:-:|:-:|
-| 🏆 | **Software Testing and Automation Specialization** | Coursera | 2025 |
-| 🏆 | **Oracle Cloud Infrastructure 2025 Certified DevOps Professional** | Oracle | 2025 |
-| 🏆 | **Web and Mobile Testing with Selenium** | Coursera | 2025 |
+```bash
+$ cat certifications.txt
+ 
+  [✔]  Software Testing and Automation Specialization
+       └── Coursera · 2025
+ 
+  [✔]  Oracle Cloud Infrastructure 2025 Certified DevOps Professional
+       └── Oracle · 2025
+ 
+  [✔]  Web and Mobile Testing with Selenium
+       └── Coursera · 2025
+```
  
 ---
  
-## `$ cat github_stats.sh`
+## 📊 GitHub Stats
  
 <div align="center">
-<img src="https://github-readme-stats-eight-omega-41.vercel.app/api?username=KISHOR403&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41&border_radius=8" height="170" />
-<img src="https://github-readme-stats-eight-omega-41.vercel.app/api/top-langs/?username=KISHOR403&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=00FF41&border_color=00FF41&border_radius=8" height="170" />
+<img src="https://github-readme-stats-eight-omega-41.vercel.app/api?username=KISHOR403&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats-eight-omega-41.vercel.app/api/top-langs/?username=KISHOR403&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41&hide_border=false&langs_count=8" height="170" />
 </div>
+---
+ 
+## 🔥 Streak
+ 
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=KISHOR403&theme=matrix&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=KISHOR403&theme=matrix&background=000000&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41)](https://git.io/streak-stats)
  
 </div>
 ---
  
-## `$ open connect.sh`
+## 📈 Activity Graph
  
 <div align="center">
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=netlify&logoColor=black)](https://kishorgogoip.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishorgogoi/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KISHOR403)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kishor_gogoi8)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorgogoi403@gmail.com)
+[![Kishor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KISHOR403&bg_color=000000&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41&hide_border=false&border_color=00FF41)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+</div>
+---
+ 
+## 🌐 Connect With Me
+ 
+<div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00FF41)](https://kishorgogoip.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/kishorgogoi/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00FF41)](https://twitter.com/kishor_gogoi8)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:kishorgogoi403@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/KISHOR403)
  
 </div>
 ---
@@ -160,4 +224,4 @@ $ echo "Total automated test cases: 105+ ✅"
  
 </div>
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003311,100:00FF41&height=120&section=footer&text=Open%20to%20QA%20%7C%20SDET%20%7C%20Test%20Automation%20Roles&fontSize=16&fontColor=00FF41&animation=fadeIn&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
