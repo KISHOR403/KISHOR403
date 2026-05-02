@@ -197,20 +197,42 @@ status      : Open to Opportunities 🟢
 
 <div align="center">
 
-```
-📡 TRANSMISSION OPEN — Let's connect and build something that works flawlessly.
+```bash
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   > initializing connection...                                   ║
+║   > locating target: Kishor Gogoi                                ║
+║   > status: 🟢 ONLINE  │  response_time: <1ms                   ║
+║   > ready to collaborate on: QA • Automation • Testing          ║
+║                                                                  ║
+║   ping kishor --build-something-that-never-breaks               ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishorgogoi)
-[![Email](https://img.shields.io/badge/Drop_Me_An_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorgogoi403@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-00FF41?style=for-the-badge&logo=netlify&logoColor=black)](https://kishorgogoip.netlify.app/)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/_%F0%9F%94%97_LinkedIn-0A66C2?style=for-the-badge&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/kishorgogoi)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/_%F0%9F%93%A7_Gmail-EA4335?style=for-the-badge&logoColor=white&labelColor=EA4335)](mailto:kishorgogoi403@gmail.com)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/_%F0%9F%8C%90_Portfolio-00FF41?style=for-the-badge&logoColor=black&labelColor=00FF41)](https://kishorgogoip.netlify.app/)&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/_%F0%9F%90%A6_Twitter-1D9BF0?style=for-the-badge&logoColor=white&labelColor=1D9BF0)](https://twitter.com/kishor_gogoi8)
 
 <br/>
 
 ```
-> "First, solve the problem. Then, write the code."  — John Johnson
-> "Quality is never an accident; it is always the result of intelligent effort."
+┌─────────────────────────────────────────────────────────────────┐
+│  AVAILABLE FOR                                                   │
+│  ✦ QA Internships & Entry-Level Roles                           │
+│  ✦ Freelance Test Automation Projects                           │
+│  ✦ Open Source QA Contributions                                 │
+│  ✦ Collaboration on Java/Selenium/Appium projects               │
+└─────────────────────────────────────────────────────────────────┘
 ```
+
+<br/>
+
+> *"The bitterness of poor quality remains long after the sweetness of meeting the schedule is forgotten."*
+> — **W. Edwards Deming**
 
 <br/>
 
