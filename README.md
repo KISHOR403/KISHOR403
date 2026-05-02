@@ -157,15 +157,36 @@ status      : Open to Opportunities 🟢
 
 <div align="center">
 
-<!-- GitHub Stats — using anuraghazra's own deployment -->
-<img src="https://github-readme-stats.vercel.app/api?username=KISHOR403&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="49%" />
+### 📊 GitHub At A Glance
 
-<!-- Top Languages — using anuraghazra's own deployment -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KISHOR403&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" width="46%" />
+| Metric | Value |
+|:---|:---|
+| 🗂️ Public Repositories | ![Repos](https://img.shields.io/badge/Repos-26-00FF41?style=flat-square&logo=github&logoColor=white) |
+| ⭐ Total Stars Earned | ![Stars](https://img.shields.io/badge/Stars-8-FFD700?style=flat-square&logo=github&logoColor=black) |
+| 👥 Followers | ![Followers](https://img.shields.io/badge/Followers-1-00BFFF?style=flat-square&logo=github&logoColor=white) |
+| 💻 Primary Language | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| 🔧 Top Tools | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| 🎓 Education | ![LPU](https://img.shields.io/badge/B.Tech_CSE-LPU_2026-00FF41?style=flat-square&logoColor=white) |
+| 📍 Location | ![India](https://img.shields.io/badge/Assam,_India-FF9933?style=flat-square&logo=googlemaps&logoColor=white) |
+| 🟢 Status | ![Open](https://img.shields.io/badge/Open_to_Work-00FF41?style=flat-square&logo=checkmarx&logoColor=black) |
 
-<br/><br/>
+<br/>
 
-<!-- GitHub Trophies — stable & looks great -->
+### 🧪 Testing Expertise Level
+
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-████████████░░░░-00FF41?style=flat-square)  `Advanced`
+
+![Selenium](https://img.shields.io/badge/Selenium_WebDriver-██████████░░░░░░-00FF41?style=flat-square)  `Proficient`
+
+![Appium](https://img.shields.io/badge/Appium_Mobile-████████░░░░░░░░-00FF41?style=flat-square)  `Intermediate`
+
+![API Testing](https://img.shields.io/badge/API_Testing-█████████░░░░░░░-00FF41?style=flat-square)  `Proficient`
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-███████░░░░░░░░░-00FF41?style=flat-square)  `Intermediate`
+
+<br/>
+
+<!-- GitHub Trophies — rock solid -->
 <img src="https://github-profile-trophy.vercel.app/?username=KISHOR403&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6" width="95%" />
 
 </div>
