@@ -157,16 +157,16 @@ status      : Open to Opportunities 🟢
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KISHOR403&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&cache_seconds=1800" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=KISHOR403&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&stroke=00FF41" width="49%" />
+<!-- GitHub Stats — most stable provider, self-hosted on Vercel -->
+<img src="https://github-readme-stats.vercel.app/api?username=KISHOR403&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&count_private=true&rank_icon=github" width="49%" />
+
+<!-- Top Languages — same provider, very reliable -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KISHOR403&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&langs_count=8" width="46%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KISHOR403&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&cache_seconds=1800" width="40%" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KISHOR403&theme=matrix" width="95%"/>
+<!-- GitHub Trophies — stable & looks great -->
+<img src="https://github-profile-trophy.vercel.app/?username=KISHOR403&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6" width="95%" />
 
 </div>
 
