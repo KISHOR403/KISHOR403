@@ -157,16 +157,16 @@ status      : Open to Opportunities 🟢
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KISHOR403&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KISHOR403&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KISHOR403&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&cache_seconds=1800" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=KISHOR403&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&stroke=00FF41" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KISHOR403&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KISHOR403&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&cache_seconds=1800" width="40%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KISHOR403&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KISHOR403&theme=matrix" width="95%"/>
 
 </div>
 
