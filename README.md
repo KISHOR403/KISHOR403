@@ -193,48 +193,44 @@ status      : Open to Opportunities 🟢
 
 ---
 
-## `$ ping me`
-
+<!-- ═══════════════════ PING ME ═══════════════════ -->
+ 
+## 📡 `ping kishor --port 443`
+ 
 <div align="center">
-
-```bash
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   > initializing connection...                                   ║
-║   > locating target: Kishor Gogoi                                ║
-║   > status: 🟢 ONLINE  │  response_time: <1ms                   ║
-║   > ready to collaborate on: QA • Automation • Testing          ║
-║                                                                  ║
-║   ping kishor --build-something-that-never-breaks               ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=100&lines=+%3E+establishing+secure+connection...;+%3E+target+located+%3A+Kishor+Gogoi+%5BONLINE%5D;+%3E+handshake+complete+%E2%9C%94+%7C+latency+%3A+%3C1ms;+%3E+ready+to+build+%7C+test+%7C+automate+%7C+ship+%F0%9F%9F%A2" />
+<br/>
+<a href="https://linkedin.com/in/kishorgogoi">
+  <img src="https://img.shields.io/badge/LinkedIn-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:kishorgogoi403@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-DROP_A_MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://kishorgogoip.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-VISIT_NOW-00FF41?style=for-the-badge&logo=safari&logoColor=black"/>
+</a>
+<br/><br/>
+ 
 ```
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/_%F0%9F%94%97_LinkedIn-0A66C2?style=for-the-badge&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/kishorgogoi)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/_%F0%9F%93%A7_Gmail-EA4335?style=for-the-badge&logoColor=white&labelColor=EA4335)](mailto:kishorgogoi403@gmail.com)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/_%F0%9F%8C%90_Portfolio-00FF41?style=for-the-badge&logoColor=black&labelColor=00FF41)](https://kishorgogoip.netlify.app/)&nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/_%F0%9F%90%A6_Twitter-1D9BF0?style=for-the-badge&logoColor=white&labelColor=1D9BF0)](https://twitter.com/kishor_gogoi8)
-
-<br/>
-
+╔══════════════════════════════════════════════════════════════════════╗
+║                    🟢  AVAILABLE FOR                                 ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  ⚡ QA Engineer Roles & Internships                                  ║
+║  ⚡ Test Automation Freelance Projects                               ║
+║  ⚡ Open Source QA / Java / Selenium Contributions                   ║
+║  ⚡ Collaboration on Android / API / Web Testing Projects            ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  AVAILABLE FOR                                                   │
-│  ✦ QA Internships & Entry-Level Roles                           │
-│  ✦ Freelance Test Automation Projects                           │
-│  ✦ Open Source QA Contributions                                 │
-│  ✦ Collaboration on Java/Selenium/Appium projects               │
-└─────────────────────────────────────────────────────────────────┘
-```
-
+ 
+<br/>
+> 💬 *"The bitterness of poor quality remains long after the sweetness of meeting the schedule is forgotten."*
+>
+> — **W. Edwards Deming**, Father of Quality Engineering
+ 
 <br/>
 
-> *"The bitterness of poor quality remains long after the sweetness of meeting the schedule is forgotten."*
-> — **W. Edwards Deming**
-
-<br/>
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
