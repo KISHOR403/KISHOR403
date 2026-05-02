@@ -157,11 +157,11 @@ status      : Open to Opportunities 🟢
 
 <div align="center">
 
-<!-- GitHub Stats — most stable provider, self-hosted on Vercel -->
-<img src="https://github-readme-stats.vercel.app/api?username=KISHOR403&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&count_private=true&rank_icon=github" width="49%" />
+<!-- GitHub Stats — using anuraghazra's own deployment -->
+<img src="https://github-readme-stats.vercel.app/api?username=KISHOR403&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="49%" />
 
-<!-- Top Languages — same provider, very reliable -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KISHOR403&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&langs_count=8" width="46%" />
+<!-- Top Languages — using anuraghazra's own deployment -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KISHOR403&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" width="46%" />
 
 <br/><br/>
 
