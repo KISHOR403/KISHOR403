@@ -186,7 +186,7 @@ status      : Open to Opportunities 🟢
 
 <br/>
 
-### 🔢 By The Numbers
+## 🔢 By The Numbers
  
 <table>
 <tr>
@@ -205,12 +205,10 @@ status      : Open to Opportunities 🟢
 </tr>
 </table>
 <br/>
-<!-- CONTRIBUTION GRAPH -->
-<img src="https://ghchart.rshah.org/00FF41/KISHOR403" width="95%" alt="Kishor's Contribution Graph"/>
+<!-- CONTRIBUTION ACTIVITY GRAPH — X/Y axis style -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KISHOR403&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=003B00&hide_border=true&custom_title=Kishor%27s%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
 </div>
 ---
-
-
 
 <!-- ═══════════════════ PING ME ═══════════════════ -->
  
