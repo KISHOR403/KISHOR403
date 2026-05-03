@@ -186,12 +186,31 @@ status      : Open to Opportunities 🟢
 
 <br/>
 
-<!-- GitHub Trophies — rock solid -->
-<img src="https://github-profile-trophy.vercel.app/?username=KISHOR403&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6" width="95%" />
-
+### 🔢 By The Numbers
+ 
+<table>
+<tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/26-Public_Repos-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/8-Stars_Earned-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117"/>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/95%25-Test_Coverage-00FF41?style=for-the-badge&logo=checkmarx&logoColor=black&labelColor=0D1117"/>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/4-Certifications-9B59B6?style=for-the-badge&logo=acclaim&logoColor=white&labelColor=0D1117"/>
+  </td>
+</tr>
+</table>
+<br/>
+<!-- CONTRIBUTION GRAPH -->
+<img src="https://ghchart.rshah.org/00FF41/KISHOR403" width="95%" alt="Kishor's Contribution Graph"/>
 </div>
-
 ---
+
+
 
 <!-- ═══════════════════ PING ME ═══════════════════ -->
  
