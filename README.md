@@ -191,7 +191,7 @@ status      : Open to Opportunities 🟢
 <table>
 <tr>
   <td align="center">
-    <img src="https://img.shields.io/badge/26-Public_Repos-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/41-Public_Repos-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
   </td>
   <td align="center">
     <img src="https://img.shields.io/badge/8-Stars_Earned-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117"/>
