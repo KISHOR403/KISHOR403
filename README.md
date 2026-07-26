@@ -15,7 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishorgogoi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorgogoi403@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=netlify&logoColor=black)](https://kishorgogoip.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://kishorgogoilatest.vercel.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kishor_gogoi8)
 [![Profile Views](https://komarev.com/ghpvc/?username=KISHOR403&label=Profile+Views&color=00ff41&style=for-the-badge)](https://github.com/KISHOR403)
 
@@ -30,10 +30,11 @@
 ```yaml
 name        : Kishor Gogoi
 role        : QA Engineer
-location    : Assam, India 🇮🇳
+location    : Bangalore, India 🇮🇳 (originally from Assam)
 university  : Lovely Professional University
 graduation  : May 2026
 focus       : Manual + Automation Testing
+availability: Immediate Joiner
 status      : Open to Opportunities 🟢
 ```
 
@@ -83,6 +84,25 @@ status      : Open to Opportunities 🟢
 ---
 
 ## `$ ls -la projects/`
+
+<details>
+<summary><b>🧪 Testnexa AI – AI-Powered Test Case Generator</b> &nbsp;<code>React • Node.js • MongoDB • Gemini API</code> &nbsp;<img src="https://img.shields.io/badge/In_Progress-00FF41?style=flat-square&logoColor=black"/></summary>
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  PROJECT : Testnexa AI — AI/LLM-Assisted Test Case Platform │
+│  STATUS  : 🚧 Actively building                              │
+├─────────────────────────────────────────────────────────────┤
+│  ✦ Full-stack: React + Node.js + MongoDB + Gemini API       │
+│  ✦ Generates test cases and exports to TestRail, Jira       │
+│    Zephyr Scale, and Azure DevOps via a universal schema    │
+│  ✦ Claims ~90% reduction in test case creation time         │
+│  ✦ Audited for enterprise readiness; tiered pricing model   │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</details>
 
 <details>
 <summary><b>📱 Mobile App Testing – Weather App</b> &nbsp;<code>Appium • Java • TestNG</code> &nbsp;<img src="https://img.shields.io/badge/March--April_2025-00FF41?style=flat-square&logoColor=black"/></summary>
@@ -148,6 +168,7 @@ status      : Open to Opportunities 🟢
 ║  🏅  Software Testing & Automation Specialization – Coursera  [2025] ║
 ║  🏅  Oracle Cloud Infrastructure DevOps Professional          [2025] ║
 ║  🏅  Web & Mobile Testing with Selenium – Coursera            [2025] ║
+║  🏅  IBM DevOps and Software Engineering Professional Cert.   [2025] ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -167,7 +188,7 @@ status      : Open to Opportunities 🟢
 | 💻 Primary Language | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | 🔧 Top Tools | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 | 🎓 Education | ![LPU](https://img.shields.io/badge/B.Tech_CSE-LPU_2026-00FF41?style=flat-square&logoColor=white) |
-| 📍 Location | ![India](https://img.shields.io/badge/Assam,_India-FF9933?style=flat-square&logo=googlemaps&logoColor=white) |
+| 📍 Location | ![India](https://img.shields.io/badge/Bangalore,_India-FF9933?style=flat-square&logo=googlemaps&logoColor=white) |
 | 🟢 Status | ![Open](https://img.shields.io/badge/Open_to_Work-00FF41?style=flat-square&logo=checkmarx&logoColor=black) |
 
 <br/>
@@ -200,7 +221,7 @@ status      : Open to Opportunities 🟢
     <img src="https://img.shields.io/badge/95%25-Test_Coverage-00FF41?style=for-the-badge&logo=checkmarx&logoColor=black&labelColor=0D1117"/>
   </td>
   <td align="center">
-    <img src="https://img.shields.io/badge/4-Certifications-9B59B6?style=for-the-badge&logo=acclaim&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/5-Certifications-9B59B6?style=for-the-badge&logo=acclaim&logoColor=white&labelColor=0D1117"/>
   </td>
 </tr>
 </table>
@@ -225,7 +246,7 @@ status      : Open to Opportunities 🟢
   <img src="https://img.shields.io/badge/Gmail-DROP_A_MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://kishorgogoip.netlify.app/">
+<a href="https://kishorgogoilatest.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-VISIT_NOW-00FF41?style=for-the-badge&logo=safari&logoColor=black"/>
 </a>
 <br/><br/>
@@ -234,7 +255,7 @@ status      : Open to Opportunities 🟢
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                    🟢  AVAILABLE FOR                                 ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  ⚡ QA Engineer Roles & Internships                                  ║
+║  ⚡ QA Engineer Roles & Internships (Immediate Joiner)               ║
 ║  ⚡ Test Automation Freelance Projects                               ║
 ║  ⚡ Open Source QA / Java / Selenium Contributions                   ║
 ║  ⚡ Collaboration on Android / API / Web Testing Projects            ║
