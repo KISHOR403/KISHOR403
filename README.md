@@ -34,8 +34,7 @@ location    : Bangalore, India 🇮🇳 (originally from Assam)
 university  : Lovely Professional University
 graduation  : May 2026
 focus       : Manual + Automation Testing
-availability: Immediate Joiner
-status      : Open to Opportunities 🟢
+status      : Open to Opportunities 🟢 (Immediate Joiner)
 ```
 
 ```bash
