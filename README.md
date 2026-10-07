@@ -1,217 +1,301 @@
+<!-- ═══════════════════════════════════════════════════════════════
+     KISHOR GOGOI — GitHub Profile README  |  2026 Edition
+     ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-```
-██╗  ██╗██╗███████╗██╗  ██╗ ██████╗ ██████╗      ██████╗  ██████╗  ██████╗  ██████╗ ██╗
-██║ ██╔╝██║██╔════╝██║  ██║██╔═══██╗██╔══██╗    ██╔════╝ ██╔═══██╗██╔════╝ ██╔═══██╗██║
-█████╔╝ ██║███████╗███████║██║   ██║██████╔╝    ██║  ███╗██║   ██║██║  ███╗██║   ██║██║
-██╔═██╗ ██║╚════██║██╔══██║██║   ██║██╔══██╗    ██║   ██║██║   ██║██║   ██║██║   ██║██║
-██║  ██╗██║███████║██║  ██║╚██████╔╝██║  ██║    ╚██████╔╝╚██████╔╝╚██████╔╝╚██████╔╝██║
-╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝     ╚═════╝  ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝
-```
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B00,100:00FF41&height=200&section=header&text=KISHOR%20GOGOI&fontSize=60&fontColor=00FF41&fontAlignY=38&desc=QA%20Engineer%20%7C%20Automation%20Architect%20%7C%20Bug%20Slayer&descAlignY=60&descColor=ffffff&animation=fadeIn&fontFamily=monospace"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Bug+Hunter+%F0%9F%90%9B;Automation+Architect+%7C+Selenium+%2B+Appium;Breaking+Things+Professionally+Since+2024;Clean+Code.+Zero+Bugs.+Ship+with+Confidence." alt="Typing SVG" />
+<!-- ANIMATED TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=45&lines=%5B+SYSTEM+BOOT+%5D+Initializing+QA+Engineer...;%E2%96%BA+Selenium+%7C+Appium+%7C+Java+%7C+TestNG+loaded+%E2%9C%94;%E2%96%BA+95%25+test+coverage+achieved+%E2%9C%94;%E2%96%BA+Zero+critical+bugs+in+production+%E2%9C%94;%E2%96%BA+CI%2FCD+pipeline+green+%F0%9F%9F%A2+%E2%9C%94;%5B+READY+%5D+Open+to+Opportunities+%F0%9F%9F%A2" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishorgogoi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorgogoi403@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://kishorgogoilatest.vercel.app/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kishor_gogoi8)
-[![Profile Views](https://komarev.com/ghpvc/?username=KISHOR403&label=Profile+Views&color=00ff41&style=for-the-badge)](https://github.com/KISHOR403)
+<!-- SOCIAL BADGES ROW -->
+<a href="https://linkedin.com/in/kishorgogoi">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+</a>
+<a href="mailto:kishorgogoi403@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+</a>
+<a href="https://kishorgogoip.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=safari&logoColor=black&labelColor=00FF41"/>
+</a>
+<a href="https://twitter.com/kishor_gogoi8">
+  <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1D9BF0"/>
+</a>
+
+<br/><br/>
+
+<!-- PROFILE VIEW COUNTER + OPEN TO WORK -->
+![Profile Views](https://komarev.com/ghpvc/?username=KISHOR403&label=PROFILE+VIEWS&color=00FF41&style=flat-square)
+![Open to Work](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00FF41?style=flat-square&logo=checkmarx&logoColor=black)
+![Location](https://img.shields.io/badge/📍_ASSAM-INDIA-FF9933?style=flat-square)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<!-- ═══════════════════ WHOAMI ═══════════════════ -->
 
-## `$ whoami`
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> `whoami`
+
+```zsh
+┌──(kishor㉿qa-lab)-[~]
+└─$ cat about.yml
+```
 
 ```yaml
-name        : Kishor Gogoi
-role        : QA Engineer
-location    : Bangalore, India 🇮🇳 (originally from Assam)
-university  : Lovely Professional University
-graduation  : May 2026
-focus       : Manual + Automation Testing
-status      : Open to Opportunities 🟢 (Immediate Joiner)
+👤 name       : Kishor Gogoi
+🎯 role       : QA Engineer
+🏫 university : Lovely Professional University
+🎓 graduation : May 2026
+📍 location   : Assam, India 🇮🇳
+🔍 focus      : Manual + Automation Testing
+💼 status     : 🟢 Open to Opportunities
+```
+
+```zsh
+┌──(kishor㉿qa-lab)-[~]
+└─$ cat currently_learning.log
 ```
 
 ```bash
-> Currently mastering:
-  ├── Selenium WebDriver (Advanced)
-  ├── Appium Mobile Automation
-  ├── CI/CD with GitHub Actions
-  └── API Testing with Rest Assured
+[██████████░░░░░] Selenium WebDriver   — Advanced
+[████████░░░░░░░] Appium Mobile        — Proficient  
+[█████████░░░░░░] REST API Automation  — Proficient
+[███████░░░░░░░░] Jenkins + CI/CD      — Intermediate
+[██████░░░░░░░░░] Performance Testing  — Learning
 ```
 
 <br clear="right"/>
 
 ---
 
-## `$ cat tech_stack.json`
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> `cat tech_stack.json`
 
 <div align="center">
 
-### ⚙️ Core Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<!-- TERMINAL OBJECT — reads like real code, looks stunning -->
+```js
+const kishor = {
+  languages   : ["Java", "SQL", "HTML", "CSS"],
+  automation  : ["Selenium WebDriver", "Appium", "TestNG",
+                 "JUnit5", "REST Assured", "Postman"],
+  aiPowered   : ["GitHub Copilot", "Testnexa AI ← self-built 🚀"],
+  devOps      : ["Git", "GitHub Actions", "Jenkins", "Jira", "TestRail"],
+  patterns    : ["Page Object Model", "Data-Driven Testing", "CI/CD"],
+  methodology : ["Agile/Scrum", "SDLC/STLC", "Regression Testing",
+                 "Bug Tracking", "Defect Life Cycle"],
+  learning    : ["Playwright", "Docker", "Performance Testing"],
+}
+```
 
-### 🤖 Automation & Testing
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Rest Assured](https://img.shields.io/badge/Rest%20Assured-3CB371?style=for-the-badge&logo=java&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<br/>
 
-### 🛠️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-65C232?style=for-the-badge&logo=checkmarx&logoColor=white)
+<!-- ROW 1 — LANGUAGES & CORE -->
+<img src="https://skillicons.dev/icons?i=java,html,css,mysql&theme=dark" />
 
-### 📋 Methodologies
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC%2FSTLC-FF6600?style=for-the-badge&logoColor=white)
-![POM](https://img.shields.io/badge/Page%20Object%20Model-43B02A?style=for-the-badge&logoColor=white)
-![DDT](https://img.shields.io/badge/Data%20Driven%20Testing-662D91?style=for-the-badge&logoColor=white)
+<br/>
+
+<!-- ROW 2 — AUTOMATION TOOLS -->
+<img src="https://skillicons.dev/icons?i=selenium,postman,jenkins,githubactions&theme=dark" />
+
+<br/>
+
+<!-- ROW 3 — DEV ENVIRONMENT -->
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,androidstudio,maven&theme=dark" />
+
+<br/><br/>
+
+<!-- NEON CATEGORY PILLS — dark bg, colored border style -->
+
+<table>
+<tr>
+<td align="center">
+
+**🧪 TEST FRAMEWORKS**
+
+![TestNG](https://img.shields.io/badge/TestNG-1a1a2e?style=flat-square&logoColor=FF6600&color=FF6600&labelColor=1a1a2e)
+![JUnit5](https://img.shields.io/badge/JUnit5-1a1a2e?style=flat-square&logo=junit5&logoColor=25A162&color=25A162&labelColor=1a1a2e)
+![REST_Assured](https://img.shields.io/badge/REST_Assured-1a1a2e?style=flat-square&logo=java&logoColor=3CB371&color=3CB371&labelColor=1a1a2e)
+![Appium](https://img.shields.io/badge/Appium-1a1a2e?style=flat-square&logoColor=A855F7&color=A855F7&labelColor=1a1a2e)
+
+</td>
+<td align="center">
+
+**🤖 AI & COPILOT**
+
+![GitHub_Copilot](https://img.shields.io/badge/GitHub_Copilot-1a1a2e?style=flat-square&logo=githubcopilot&logoColor=00FF41&color=00FF41&labelColor=1a1a2e)
+![Testnexa_AI](https://img.shields.io/badge/Testnexa_AI_🚀-1a1a2e?style=flat-square&logo=openai&logoColor=9B59B6&color=9B59B6&labelColor=1a1a2e)
+
+</td>
+<td align="center">
+
+**📋 METHODOLOGY**
+
+![Agile](https://img.shields.io/badge/Agile%2FScrum-1a1a2e?style=flat-square&logoColor=009FDA&color=009FDA&labelColor=1a1a2e)
+![POM](https://img.shields.io/badge/Page_Object_Model-1a1a2e?style=flat-square&logoColor=00FF41&color=00FF41&labelColor=1a1a2e)
+![DDT](https://img.shields.io/badge/Data_Driven_Testing-1a1a2e?style=flat-square&logoColor=FF6600&color=FF6600&labelColor=1a1a2e)
+![Regression](https://img.shields.io/badge/Regression_Testing-1a1a2e?style=flat-square&logoColor=FFD700&color=FFD700&labelColor=1a1a2e)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🛠️ BUG & PROJECT TRACKING**
+
+![Jira](https://img.shields.io/badge/Jira-1a1a2e?style=flat-square&logo=jira&logoColor=0052CC&color=0052CC&labelColor=1a1a2e)
+![TestRail](https://img.shields.io/badge/TestRail-1a1a2e?style=flat-square&logo=checkmarx&logoColor=65C232&color=65C232&labelColor=1a1a2e)
+
+</td>
+<td align="center">
+
+**📱 MOBILE TESTING**
+
+![Appium](https://img.shields.io/badge/Appium_Mobile-1a1a2e?style=flat-square&logoColor=A855F7&color=A855F7&labelColor=1a1a2e)
+![ADB](https://img.shields.io/badge/ADB_Device_Testing-1a1a2e?style=flat-square&logo=android&logoColor=3DDC84&color=3DDC84&labelColor=1a1a2e)
+
+</td>
+<td align="center">
+
+**⚡ CURRENTLY LEARNING**
+
+![Playwright](https://img.shields.io/badge/Playwright-1a1a2e?style=flat-square&logo=playwright&logoColor=2EAD33&color=2EAD33&labelColor=1a1a2e)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED&color=2496ED&labelColor=1a1a2e)
+![Performance](https://img.shields.io/badge/Performance_Testing-1a1a2e?style=flat-square&logoColor=FF4500&color=FF4500&labelColor=1a1a2e)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## `$ ls -la projects/`
+<!-- ═══════════════════ PROJECTS ═══════════════════ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> `ls -la ~/projects/`
 
 <details>
-<summary><b>🧪 Testnexa AI – AI-Powered Test Case Generator</b> &nbsp;<code>React • Node.js • MongoDB • Gemini API</code> &nbsp;<img src="https://img.shields.io/badge/In_Progress-00FF41?style=flat-square&logoColor=black"/></summary>
+<summary>
+  <img src="https://img.shields.io/badge/▶_OPEN-📱_Mobile_App_Testing_–_Weather_App-1a1a2e?style=for-the-badge&labelColor=662D91&color=0D1117"/>
+  &nbsp;
+  <code>Appium • Java • TestNG</code>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Mar–Apr_2025-✅_DONE-00FF41?style=flat-square"/>
+</summary>
 <br/>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  PROJECT : Testnexa AI — AI/LLM-Assisted Test Case Platform │
-│  STATUS  : 🚧 Actively building                              │
-├─────────────────────────────────────────────────────────────┤
-│  ✦ Full-stack: React + Node.js + MongoDB + Gemini API       │
-│  ✦ Generates test cases and exports to TestRail, Jira       │
-│    Zephyr Scale, and Azure DevOps via a universal schema    │
-│  ✦ Claims ~90% reduction in test case creation time         │
-│  ✦ Audited for enterprise readiness; tiered pricing model   │
-└─────────────────────────────────────────────────────────────┘
+```diff
++ PROJECT  : Android Weather Forecast App — End-to-End Automation
++ STACK    : Appium | Java | TestNG | ADB | POM
++ STATUS   : ✅ Completed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
++ ✦  Automated full E2E flows on Weather Forecast Android app
++ ✦  Page Object Model for clean screen/action separation
++ ✦  Ran on both Android Emulator + real devices via ADB
++ ✦  Gesture controls • adaptive waits • auto failure screenshots
 ```
 
 </details>
 
 <details>
-<summary><b>📱 Mobile App Testing – Weather App</b> &nbsp;<code>Appium • Java • TestNG</code> &nbsp;<img src="https://img.shields.io/badge/March--April_2025-00FF41?style=flat-square&logoColor=black"/></summary>
+<summary>
+  <img src="https://img.shields.io/badge/▶_OPEN-🌐_Web_Automation_Framework-1a1a2e?style=for-the-badge&labelColor=43B02A&color=0D1117"/>
+  &nbsp;
+  <code>Selenium • Java • TestNG • POM</code>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Feb–Mar_2025-✅_95%25_Coverage-00FF41?style=flat-square"/>
+</summary>
 <br/>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  PROJECT : Weather Forecast Android App Automation          │
-│  STATUS  : ✅ Completed                                      │
-├─────────────────────────────────────────────────────────────┤
-│  ✦ End-to-end automation using Appium + Java + TestNG       │
-│  ✦ Page Object Model (POM) for screen/action separation     │
-│  ✦ Tested on Android Emulator + Physical Devices via ADB    │
-│  ✦ Gesture controls + adaptive waits + auto screenshots     │
-└─────────────────────────────────────────────────────────────┘
+```diff
++ PROJECT  : Scalable Web Automation Framework
++ STACK    : Selenium WebDriver | Java | TestNG | GitHub Actions
++ STATUS   : ✅ Completed  |  COVERAGE: 95% functional scenarios
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
++ ✦  Strict POM design — zero coupling between tests & UI logic
++ ✦  Dynamic env variables + data-driven test collections
++ ✦  Full CRUD: schema checks • response code • payload assertions
++ ✦  CI/CD pipeline live on every push via GitHub Actions ⚡
 ```
 
 </details>
 
 <details>
-<summary><b>🌐 Web Automation Framework</b> &nbsp;<code>Selenium • Java • TestNG • POM</code> &nbsp;<img src="https://img.shields.io/badge/Feb--March_2025-00FF41?style=flat-square&logoColor=black"/></summary>
+<summary>
+  <img src="https://img.shields.io/badge/▶_OPEN-🔌_API_Automation_Testing_Suite-1a1a2e?style=for-the-badge&labelColor=FF6C37&color=0D1117"/>
+  &nbsp;
+  <code>Postman • Rest Assured • GitHub Actions</code>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Feb–Mar_2025-✅_DONE-00FF41?style=flat-square"/>
+</summary>
 <br/>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  PROJECT  : Scalable Web Automation Framework               │
-│  STATUS   : ✅ Completed  │  COVERAGE: 95% functional        │
-├─────────────────────────────────────────────────────────────┤
-│  ✦ Selenium WebDriver + Java, strict POM architecture       │
-│  ✦ Dynamic env variables + data-driven test collections     │
-│  ✦ Full CRUD validation: schema, response codes, payloads   │
-│  ✦ CI/CD integrated via GitHub Actions ⚡                   │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</details>
-
-<details>
-<summary><b>🔌 API Automation Testing Suite</b> &nbsp;<code>Postman • Rest Assured • GitHub Actions</code> &nbsp;<img src="https://img.shields.io/badge/Feb--March_2025-00FF41?style=flat-square&logoColor=black"/></summary>
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  PROJECT : REST API Automation Suite                        │
-│  STATUS  : ✅ Completed                                      │
-├─────────────────────────────────────────────────────────────┤
-│  ✦ Postman + REST Assured for REST endpoint automation      │
-│  ✦ Auth, product discovery, cart & order validation flows   │
-│  ✦ Data-driven TestNG suites with Excel/JSON inputs         │
-│  ✦ Auto regression on every push via GitHub Actions 🔄      │
-└─────────────────────────────────────────────────────────────┘
+```diff
++ PROJECT  : REST API Automation Suite
++ STACK    : Postman | REST Assured | TestNG | Excel/JSON DDT
++ STATUS   : ✅ Completed
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
++ ✦  Full API suite: auth • discovery • cart • order validation
++ ✦  Data-driven TestNG suites (Excel + JSON multi-dataset)
++ ✦  Schema validation • status code checks • payload assertions
++ ✦  Auto regression triggered on every commit via GitHub Actions 🔄
 ```
 
 </details>
 
 ---
 
-## `$ cat certifications.txt`
+<!-- ═══════════════════ CERTIFICATIONS ═══════════════════ -->
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  🏅  SAP Certified Project Manager (SAP Activate & Agile)    [2026] ║
-║  🏅  Software Testing & Automation Specialization – Coursera  [2025] ║
-║  🏅  Oracle Cloud Infrastructure DevOps Professional          [2025] ║
-║  🏅  Web & Mobile Testing with Selenium – Coursera            [2025] ║
-║  🏅  IBM DevOps and Software Engineering Professional Cert.   [2025] ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## `$ git log --stats`
+## 🏅 `cat certifications.txt`
 
 <div align="center">
 
-### 📊 GitHub At A Glance
+| 🏅 Certification | 🏢 Issuer | 📅 Year |
+|:---|:---:|:---:|
+| SAP Certified Project Manager — SAP Activate & Agile | ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white) | `2026` |
+| Software Testing & Automation Specialization | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) | `2025` |
+| Oracle Cloud Infrastructure DevOps Professional | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | `2025` |
+| Web & Mobile Testing with Selenium | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) | `2025` |
 
-| Metric | Value |
-|:---|:---|
-| 🗂️ Public Repositories | ![Repos](https://img.shields.io/badge/Repos-26-00FF41?style=flat-square&logo=github&logoColor=white) |
-| ⭐ Total Stars Earned | ![Stars](https://img.shields.io/badge/Stars-8-FFD700?style=flat-square&logo=github&logoColor=black) |
-| 👥 Followers | ![Followers](https://img.shields.io/badge/Followers-1-00BFFF?style=flat-square&logo=github&logoColor=white) |
-| 💻 Primary Language | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| 🔧 Top Tools | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| 🎓 Education | ![LPU](https://img.shields.io/badge/B.Tech_CSE-LPU_2026-00FF41?style=flat-square&logoColor=white) |
-| 📍 Location | ![India](https://img.shields.io/badge/Bangalore,_India-FF9933?style=flat-square&logo=googlemaps&logoColor=white) |
-| 🟢 Status | ![Open](https://img.shields.io/badge/Open_to_Work-00FF41?style=flat-square&logo=checkmarx&logoColor=black) |
+</div>
+
+---
+
+<!-- ═══════════════════ STATS ═══════════════════ -->
+
+## 📊 `git log --oneline --stat`
+
+<div align="center">
+
+### 🧪 Skill Proficiency Matrix
+
+```
+ Manual Testing     ████████████████████░░░░  Advanced    ██ 85%
+ Selenium WebDriver ██████████████████░░░░░░  Proficient  ██ 78%
+ API Testing        ████████████████░░░░░░░░  Proficient  ██ 72%
+ Appium Mobile      ██████████████░░░░░░░░░░  Competent   ██ 65%
+ Java               ████████████░░░░░░░░░░░░  Competent   ██ 60%
+ CI/CD Pipelines    ██████████░░░░░░░░░░░░░░  Learning    ██ 55%
+```
 
 <br/>
 
-### 🧪 Testing Expertise Level
+### 🔢 By The Numbers
 
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-████████████░░░░-00FF41?style=flat-square)  `Advanced`
-
-![Selenium](https://img.shields.io/badge/Selenium_WebDriver-██████████░░░░░░-00FF41?style=flat-square)  `Proficient`
-
-![Appium](https://img.shields.io/badge/Appium_Mobile-████████░░░░░░░░-00FF41?style=flat-square)  `Intermediate`
-
-![API Testing](https://img.shields.io/badge/API_Testing-█████████░░░░░░░-00FF41?style=flat-square)  `Proficient`
-
-![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-███████░░░░░░░░░-00FF41?style=flat-square)  `Intermediate`
-
-<br/>
-
-## 🔢 By The Numbers
- 
 <table>
 <tr>
   <td align="center">
-    <img src="https://img.shields.io/badge/61-Public_Repos-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/26-Public_Repos-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
   </td>
   <td align="center">
     <img src="https://img.shields.io/badge/8-Stars_Earned-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117"/>
@@ -220,23 +304,30 @@ status      : Open to Opportunities 🟢 (Immediate Joiner)
     <img src="https://img.shields.io/badge/95%25-Test_Coverage-00FF41?style=for-the-badge&logo=checkmarx&logoColor=black&labelColor=0D1117"/>
   </td>
   <td align="center">
-    <img src="https://img.shields.io/badge/5-Certifications-9B59B6?style=for-the-badge&logo=acclaim&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/4-Certifications-9B59B6?style=for-the-badge&logo=acclaim&logoColor=white&labelColor=0D1117"/>
   </td>
 </tr>
 </table>
+
 <br/>
+
 <!-- CONTRIBUTION ACTIVITY GRAPH — X/Y axis style -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KISHOR403&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=003B00&hide_border=true&custom_title=Kishor%27s%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+
 </div>
+
 ---
 
 <!-- ═══════════════════ PING ME ═══════════════════ -->
- 
+
 ## 📡 `ping kishor --port 443`
- 
+
 <div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=100&lines=+%3E+establishing+secure+connection...;+%3E+target+located+%3A+Kishor+Gogoi+%5BONLINE%5D;+%3E+handshake+complete+%E2%9C%94+%7C+latency+%3A+%3C1ms;+%3E+ready+to+build+%7C+test+%7C+automate+%7C+ship+%F0%9F%9F%A2" />
+
 <br/>
+
 <a href="https://linkedin.com/in/kishorgogoi">
   <img src="https://img.shields.io/badge/LinkedIn-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -245,36 +336,51 @@ status      : Open to Opportunities 🟢 (Immediate Joiner)
   <img src="https://img.shields.io/badge/Gmail-DROP_A_MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://kishorgogoilatest.vercel.app/">
+<a href="https://kishorgogoip.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-VISIT_NOW-00FF41?style=for-the-badge&logo=safari&logoColor=black"/>
 </a>
+
 <br/><br/>
- 
+
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                    🟢  AVAILABLE FOR                                 ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  ⚡ QA Engineer Roles & Internships (Immediate Joiner)               ║
+║  ⚡ QA Engineer Roles & Internships                                  ║
 ║  ⚡ Test Automation Freelance Projects                               ║
 ║  ⚡ Open Source QA / Java / Selenium Contributions                   ║
 ║  ⚡ Collaboration on Android / API / Web Testing Projects            ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
- 
+
 <br/>
+
 > 💬 *"The bitterness of poor quality remains long after the sweetness of meeting the schedule is forgotten."*
 >
 > — **W. Edwards Deming**, Father of Quality Engineering
- 
+
 <br/>
 
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<!-- CONTRIBUTION SNAKE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
 ---
 
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:0D1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00FF41&fontAlignY=65&fontFamily=monospace"/>
+
 <div align="center">
-  <sub>⚡ Crafted with precision by <a href="https://github.com/KISHOR403">Kishor Gogoi</a> — because even READMEs deserve quality assurance.</sub>
+  <sub>
+    ⚡ Built with precision by <a href="https://github.com/KISHOR403"><b>Kishor Gogoi</b></a>
+    &nbsp;·&nbsp;
+    Because even READMEs deserve Quality Assurance
+    &nbsp;·&nbsp;
+    <code>v2.0.26</code>
+  </sub>
 </div>
