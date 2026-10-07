@@ -87,7 +87,8 @@ const kishor = {
   languages   : ["Java", "SQL", "HTML", "CSS"],
   automation  : ["Selenium WebDriver", "Appium", "TestNG",
                  "JUnit5", "REST Assured", "Postman"],
-  aiPowered   : ["GitHub Copilot", "Testnexa AI ← self-built 🚀"],
+  aiPowered   : ["GitHub Copilot", "ChatGPT", "Claude Code",
+                 "Gemini AI", "Testnexa AI ← self-built 🚀"],
   devOps      : ["Git", "GitHub Actions", "Jenkins", "Jira", "TestRail"],
   patterns    : ["Page Object Model", "Data-Driven Testing", "CI/CD"],
   methodology : ["Agile/Scrum", "SDLC/STLC", "Regression Testing",
@@ -132,7 +133,10 @@ const kishor = {
 **🤖 AI & COPILOT**
 
 ![GitHub_Copilot](https://img.shields.io/badge/GitHub_Copilot-1a1a2e?style=flat-square&logo=githubcopilot&logoColor=00FF41&color=00FF41&labelColor=1a1a2e)
-![Testnexa_AI](https://img.shields.io/badge/Testnexa_AI_🚀-1a1a2e?style=flat-square&logo=openai&logoColor=9B59B6&color=9B59B6&labelColor=1a1a2e)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-1a1a2e?style=flat-square&logo=openai&logoColor=74AA9C&color=74AA9C&labelColor=1a1a2e)
+![Claude](https://img.shields.io/badge/Claude_Code-1a1a2e?style=flat-square&logo=anthropic&logoColor=D4A27F&color=D4A27F&labelColor=1a1a2e)
+![Gemini](https://img.shields.io/badge/Gemini_AI-1a1a2e?style=flat-square&logo=googlegemini&logoColor=4285F4&color=4285F4&labelColor=1a1a2e)
+![Testnexa_AI](https://img.shields.io/badge/Testnexa_AI_🚀-1a1a2e?style=flat-square&logo=sparkles&logoColor=9B59B6&color=9B59B6&labelColor=1a1a2e)
 
 </td>
 <td align="center">
